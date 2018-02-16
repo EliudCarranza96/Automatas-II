@@ -1,0 +1,11 @@
+PASOS PARA EJECUTAR EL PROGRAMA:
+
+1. Abrir Netbeans
+2. Clic en File>Open Project (o bien Ctrl+mayus+o)
+3. Buscar la ruta donde se gaurdó la carpeta abrir: Proyecto Unidad 1>Arbol>ArbolBin
+4. En la pestaña Projects de NetBeans aparecera el proyecto ArbolBin
+5. Clic derecho sobre el y clic en Run
+6. Aparece el menú de operaciones, segun la que desee realizar escribe el numero que le corresponde
+   y se ejecuta la orden si elige agregar le pide que introdusca el nodo, se repite este paso
+   hasta que haya insertado todos los nodos y una vez echo esto selecciona imprimir y sale en pantalla los 
+   los nodos en cada uno de los ordenes establecidos.
